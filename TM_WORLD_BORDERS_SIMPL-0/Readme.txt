@@ -68,3 +68,4 @@ CHANGELOG VERSION 0.1 - 13 March 2008
   http://unstats.un.org/unsd/methods/m49/m49regin.htm
 - Added LAT, LONG values for each country
 -
+-
